@@ -102,10 +102,6 @@ sns.histplot(x='Postal Code',data=df)
 
 ![Output](10.jpg)
 
-## HISTOGRAM PLOT
-
-![Output](11.jpg)
-
 # Result:
 Thus we have read the given data and performed the univariate analysis with different types of plots.
 
